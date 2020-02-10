@@ -18,7 +18,7 @@ Flixx is an app that allows users to browse movies from the [The Movie Database 
 <img src="http://g.recordit.co/cy8mitWJIW.gif" width=250><br>
 
 ### Notes
-I wish I'd had more time to work on this. I feel like I rushed through this assignment.
+I wish I'd had more time to work on this. I feel like I rushed through this assignment. I tried to do something different with the horror movies instead of the super hero. 
 
 
 
